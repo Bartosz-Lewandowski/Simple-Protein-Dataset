@@ -1,0 +1,56 @@
+body{
+background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+h2, h3{
+	text-align: center;
+	color: #FFFFAB;
+}
+h4{
+	text-align: center;
+	color: #FFFFAB;
+}
+tr, td{
+	padding: 10px;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+a{
+	text-decoration: none;
+}
+.headings{
+	color: #FFFFFF;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.ex_info{
+	color: #FFFFBA;
+	font-style: italic;
+	text-align: center;
+}
+
+#seq{
+	margin-right: auto;
+	margin-left: auto;
+	width: 700px;
+	padding: 5px;
+}
+
+.cds{
+	width: 700px;
+	text-align: center;
+	word-wrap: break-word;
+	color: #FFFF99;
+	letter-spacing: 2px;
+	border: 2px solid #FFFFFF;
+	padding: 15px;
+}
+
+.struct{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
