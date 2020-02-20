@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE protein SYSTEM "protein.dtd">
+
+<protdataset>
+	<protein>
+		<nazwa>Hemoglobin subunit gamma-2</nazwa>
+		<ID>P69892</ID>
+		<gene>HBG2</gene>
+		<organism>Homo sapiens</organism>
+	</protein>
+
+	<function>
+		<molecular>
+			Heme binding
+		</molecular>
+
+		<molecular>
+			Hemoglobin alpha binding
+		</molecular>
+
+		<molecular>
+			Metal ion binding
+		</molecular>
+
+		<molecular>
+			Organic acid binding 
+		</molecular>
+
+		<molecular>
+			Oxygen binding
+		</molecular>
+			 
+		<molecular>
+			Oxygen carrier activity
+		</molecular>
+		<biological>
+			Blood coagulation
+		</biological>
+
+		<biological>
+			Cellular oxidant detoxification
+		</biological>
+		
+		<biological>
+			Hydrogen peroxide catabolic process
+		</biological>
+	</function>
+
+	<localisation>
+		<tissue>Blood</tissue>
+		<subcell>Cytosol</subcell>
+		<subcell>hemoglobin complex</subcell>
+	</localisation>
+
+	<sequence>
+		<nucleotide>
+			ATGGGCCATTTTACCGAAGAAGATAAAGCGACCATTACCAGCCTGTGGGGCAAAGTGAAC
+			GTGGAAGATGCGGGCGGCGAAACCCTGGGCCGCCTGCTGGTGGTGTATCCGTGGACCCAG
+			CGCTTTTTTGATAGCTTTGGCAACCTGAGCAGCGCGAGCGCGATTATGGGCAACCCGAAA
+			GTGAAAGCGCATGGCAAAAAAGTGCTGACCAGCCTGGGCGATGCGATTAAACATCTGGAT
+			GATCTGAAAGGCACCTTTGCGCAGCTGAGCGAACTGCATTGCGATAAACTGCATGTGGAT
+			CCGGAAAACTTTAAACTGCTGGGCAACGTGCTGGTGACCGTGCTGGCGATTCATTTTGGC
+			AAAGAATTTACCCCGGAAGTGCAGGCGAGCTGGCAGAAAATGGTGACCGGCGTGGCGAGC
+			GCGCTGAGCAGCCGCTATCAT
+		</nucleotide>
+		<aminoacids>
+			MGHFTEEDKATITSLWGKVNVEDAGGETLGRLLVVYPWTQRFFDSFGNLSSASAIMGNPK
+			VKAHGKKVLTSLGDAIKHLDDLKGTFAQLSELHCDKLHVDPENFKLLGNVLVTVLAIHFG
+			KEFTPEVQASWQKMVTGVASALSSRYH
+		</aminoacids>
+	</sequence>
+
+	<structure>
+		<first src="first_hemoglobin.png" alt="first_hemoglobin_alt.png"></first>
+	</structure>
+
+</protdataset>
