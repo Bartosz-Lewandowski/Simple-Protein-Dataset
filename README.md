@@ -23,7 +23,7 @@ It's important in protein database to be able to download a fasta file, so we di
 ``` 
 sudo apt-get install xsltproc 
 ```
-###Install **xmllint** to validate our xml example on Ubuntu/Debian
+### Install **xmllint** to validate our xml example on Ubuntu/Debian
 ``` 
 sudo apt-get install xmllint
 ```
