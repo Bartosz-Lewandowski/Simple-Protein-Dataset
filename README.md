@@ -19,29 +19,29 @@ It's important in protein database to be able to download a fasta file, so we di
 * HTML
 * CSS
 ## Installation
-> Install a **xslt** processor to transform files on Ubuntu/Debian
+### Install a **xslt** processor to transform files on Ubuntu/Debian
 ``` 
 sudo apt-get install xsltproc 
 ```
-> Install **xmllint** to validate our xml example on Ubuntu/Debian
+###Install **xmllint** to validate our xml example on Ubuntu/Debian
 ``` 
 sudo apt-get install xmllint
 ```
 ## Usage
-> To validate our xml example we used command **xmllint**
+### To validate our xml example we used command **xmllint**
 ```
 xmllint dtd_file.dtd xml_flie.xml 
 ```
-> To transform file with xsl flie we used command **xsltproc**
+### To transform file with xsl flie we used command **xsltproc**
 ``` 
 xsltproc transformation_file.xsl xml_file.xml 
 ```
-> To transform and save result in file 
+### To transform and save result in file 
 ``` 
 xsltproc -o result_file.txt transformation_file.xsl xml_file.xml 
 ```
 ## Example
-> Examples with our files.
+### Examples with our files.
 * To check validation:
 ``` 
 xmllint protein.dtd hemoglobin_protein.xml 
